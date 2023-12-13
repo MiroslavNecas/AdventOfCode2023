@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Run": {
+      "commandName": "Project",
+      "commandLineArgs": "< input.txt > output.txt",
+      "workingDirectory": "C:\\Users\\Mirek\\Desktop\\AdventOfCode\\Day_1_1"
+    }
+  }
+}
